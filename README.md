@@ -8,7 +8,7 @@
 - [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
   - By Aditya Y. Bhargava
   - A not-so-boring take on algorithms & data structures
-- [Algorithms, 4th Edition](ftp://91.193.236.10/pub/docs/linux-support/computer%20science/data%20Structures%20&%20algorithms/%5BPearson%5D%20-%20Algorithms,%204th%20ed.%20-%20%5BSedgewick,%20Wayne%5D.pdf)
+- [Algorithms, 4th Edition](http://bit.ly/1PSChyb)
   - By Robert Sedgewick and Kevin Wayne
   - There are many great textbooks covering data structures & algorithms. This is one of them
 
