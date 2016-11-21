@@ -1,4 +1,4 @@
-# CS Resources
+# CS & Interview Resources
 
 ## CS Theory
 
@@ -17,9 +17,38 @@
   - Has Implementations of many data structures and algorithms in many different languages
 
 ### Algorithms & Data Structures
+#### Data Structures
+- [Primitive Data Types](https://en.wikipedia.org/wiki/Primitive_data_type)
+  - Basic types
+- [Arrays](https://en.wikipedia.org/wiki/Array_data_type)
+- [Dynamic Arrays](https://en.wikipedia.org/wiki/Dynamic_array)
+- [Linked Lists](https://en.wikipedia.org/wiki/Linked_list)
+- [Associate Arrays](https://en.wikipedia.org/wiki/Associative_array) (Hashes, Dictionaries, Maps)
+  - Typically implemented as a...
 - [Hash Table](https://en.wikipedia.org/wiki/Hash_table)
+- [Stacks](http://bit.ly/1OJybGQ)
+- [Queues](http://bit.ly/2fPs7zs)
+- [Heaps](http://bit.ly/2gac1zA)
+- [Trees](http://bit.ly/1CKSr1s)
+  - Look into different types of trees: Binary Search trees and balanced BSTs such as AVL trees or Red-Black trees
+- [Graphs](http://bit.ly/2ge0PDE)
+
+#### Algorithms
+- [Recursion](http://bit.ly/1PgM41t)
+- [Backtracking](https://en.wikipedia.org/wiki/Backtracking)
+- [Linear Search](https://en.wikipedia.org/wiki/Linear_search) vs [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+- [Sorting Algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm)
+  - [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
+  - [Mergesort](https://en.wikipedia.org/wiki/Merge_sort) or [Heapsort](https://en.wikipedia.org/wiki/Heapsort)
+  - [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
+- [Subsequences](https://en.wikipedia.org/wiki/Subsequence) and [Substrings](https://en.wikipedia.org/wiki/Substring)
+- [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
+- [Breadth-First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
+- [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search)
 - [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
+- [Shortest Path Problem](https://en.wikipedia.org/wiki/Shortest_path_problem)
 - [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+- [Hash Function](https://en.wikipedia.org/wiki/Hash_function)
 
 ### Courses
 - [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
