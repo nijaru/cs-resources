@@ -54,3 +54,9 @@
 - [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 - [Awesome list of awesome lists](https://github.com/sindresorhus/awesome)
     - Aggregate of awesome lists on various topics
+
+## Contributing
+Feel free to open pull requests with new resources!
+
+## License
+[AGPL v3](LICENSE)
