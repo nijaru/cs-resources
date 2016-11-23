@@ -11,6 +11,9 @@
 - [Algorithms, 4th Edition](http://bit.ly/1PSChyb)
   - By Robert Sedgewick and Kevin Wayne
   - There are many great textbooks covering data structures & algorithms. This is one of them
+- [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
+  - By Donald Knuth
+  - "If you think you're a really good programmer... read (Knuth's) Art of Computer Programming... You should definitely send me a résumé if you can read the whole thing." -Bill Gates
 
 ### Examples
 - [Rosetta Code](http://www.rosettacode.org/wiki/Rosetta_Code)
