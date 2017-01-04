@@ -8,12 +8,9 @@
 - [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
   - By Aditya Y. Bhargava
   - A not-so-boring take on algorithms & data structures
-- [Algorithms, 4th Edition](http://bit.ly/1PSChyb)
+- [Algorithms, 4th Edition](ftp://91.193.236.10/pub/docs/linux-support/computer%20science/data%20Structures%20&%20algorithms/%5BPearson%5D%20-%20Algorithms,%204th%20ed.%20-%20%5BSedgewick,%20Wayne%5D.pdf)
   - By Robert Sedgewick and Kevin Wayne
   - There are many great textbooks covering data structures & algorithms. This is one of them
-- [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
-  - By Donald Knuth
-  - "If you think you're a really good programmer... read (Knuth's) Art of Computer Programming... You should definitely send me a résumé if you can read the whole thing." -Bill Gates
 
 ### Examples
 - [Rosetta Code](http://www.rosettacode.org/wiki/Rosetta_Code)
@@ -33,7 +30,11 @@
 - [Queues](http://bit.ly/2fPs7zs)
 - [Heaps](http://bit.ly/2gac1zA)
 - [Trees](http://bit.ly/1CKSr1s)
-  - Look into different types of trees: Binary Search trees and balanced BSTs such as AVL trees or Red-Black trees
+  - Look into different types of trees:
+    - Binary Search trees
+    - Balanced BSTs:
+        - AVL trees or Red-Black trees
+    - B-trees
 - [Graphs](http://bit.ly/2ge0PDE)
 
 #### Algorithms
