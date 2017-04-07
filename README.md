@@ -64,7 +64,7 @@
 ## Interview Resources
 - [Cracking The Coding Interview, 6th Edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
   - By Gayle Laakmann McDowell
-  - I would *highly* recommend this book and working through the problems provided. It provides a good overview of interview prep & cs theory
+  - I *highly* recommend this book for interview prep and suggest working through the practice problems provided.
 - [Google's Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
   - A checklist of topics you should learn
 - [Google Interview University](https://github.com/jwasham/google-interview-university)
