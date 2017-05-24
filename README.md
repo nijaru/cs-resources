@@ -20,17 +20,18 @@
 #### Data Structures
 - [Primitive Data Types](https://en.wikipedia.org/wiki/Primitive_data_type)
   - Basic types
+  - [Pointers](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
 - [Arrays](https://en.wikipedia.org/wiki/Array_data_type)
 - [Dynamic Arrays](https://en.wikipedia.org/wiki/Dynamic_array)
 - [Linked Lists](https://en.wikipedia.org/wiki/Linked_list)
 - [Associate Arrays](https://en.wikipedia.org/wiki/Associative_array) (Hashes, Dictionaries, Maps)
-  - Typically implemented as a...
+  - Typically implemented as a Hash Table...
 - [Hash Table](https://en.wikipedia.org/wiki/Hash_table)
 - [Stacks](http://bit.ly/1OJybGQ)
 - [Queues](http://bit.ly/2fPs7zs)
 - [Heaps](http://bit.ly/2gac1zA)
 - [Trees](http://bit.ly/1CKSr1s)
-  - Look into different types of trees:
+  - Look into a few different types of trees:
     - Binary Search trees
     - Balanced BSTs:
         - AVL trees or Red-Black trees
@@ -52,7 +53,7 @@
 - [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 - [Shortest Path Problem](https://en.wikipedia.org/wiki/Shortest_path_problem)
 - [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
-- [Hash Function](https://en.wikipedia.org/wiki/Hash_function)
+- [Hash Functions](https://en.wikipedia.org/wiki/Hash_function)
 
 ### Courses
 - [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
@@ -64,9 +65,9 @@
 ## Interview Resources
 - [Cracking The Coding Interview, 6th Edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
   - By Gayle Laakmann McDowell
-  - I *highly* recommend this book for interview prep and suggest working through the practice problems provided.
+  - I *highly* recommend this book for interview prep and suggest working through the practice problems provided. That being said, it does not go that deep. I suggest you supplement it with real research into the topics it covers.
 - [Google's Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-  - A checklist of topics you should learn
+  - Checklist from Google of topics you should learn
 - [Google Interview University](https://github.com/jwasham/google-interview-university)
   - Repository that covers many CS fundamentals and prepares you for a career as a software engineer
   - This is a great compilation of many different resources
@@ -81,7 +82,15 @@
 - [Hacker Rank](https://www.hackerrank.com/domains)
   - There are many sites that provide you with problems to complete such as this. Pick one
 - [Code Fights](https://codefights.com)
-  - Race to fix bugs
+  - Race to fix bugs and more
+- [Exercism](http://exercism.io/)
+  - Level up your programming skills from the command line
+- [Node School](http://nodeschool.io/)
+  - Level up your javascript skills (and more) from the command line
+  - Also a great community with meetups all over
+- [FreeCodeCamp](freecodecamp.com)
+  - Learn javascript and help non profits after completing the courses here
+  - Awesome community that also has meetups all over
 
 ## Miscellaneous
 - [Big-O Cheat Sheet](http://bigocheatsheet.com/)
