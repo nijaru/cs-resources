@@ -101,4 +101,4 @@
 Feel free to open pull requests with new resources!
 
 ## License
-[AGPL v3](LICENSE)
+[MIT](LICENSE)
